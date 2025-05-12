@@ -1,22 +1,46 @@
-# Hi, I'm Shakila Shaik 👋
-
-## About Me
-
-- **👀 Interests:** I'm passionate about coding and have a strong focus on the MERN stack (MongoDB, Express.js, React, Node.js).
-- **🌱 Currently Learning:** I'm expanding my skill set by learning AWS Cloud services, Docker, and Kubernetes to enhance my development workflows and deployment strategies.
-- **💞️ Looking to Collaborate On:** I'm eager to collaborate on projects that involve cloud computing, containerization, and full-stack development, aiming to build scalable and efficient applications.
-- **📫 How to Reach Me:** You can reach me via email at shakilashaik@example.com or connect with me on LinkedIn at [linkedin.com/in/shakilashaik](https://www.linkedin.com/in/shakilashaik).
-- **😄 Pronouns:** She/Her
-- **⚡ Fun Fact:** I love contributing to open-source projects and have a collection of my own repositories that you can explore.
-
-## Skills
-
-- **Programming Languages:** JavaScript, TypeScript
-- **Front-End:** React, Redux, HTML5, CSS3
-- **Back-End:** Node.js, Express.js
-- **Databases:** MongoDB
-- **DevOps & Cloud:** AWS, Docker, Kubernetes
-- **Version Control:** Git, GitHub
+👋 Hi, I'm Shakila Shaik
+🚀 About Me
+I'm a full-stack developer with hands-on experience in building modern, secure, and scalable applications. I’ve worked on real-world projects involving React, Node.js, and Python, and have also built Ethereum smart contracts and integrated blockchain features using Web3.js and MetaMask.
 
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
+
+🌱 Currently Learning
+I'm actively expanding my expertise in:
+
+AWS Cloud Services
+
+Docker & Kubernetes
+
+CI/CD Pipelines & DevOps Workflows
+
+🤝 Looking to Collaborate On
+Projects involving:
+
+Full-Stack Web Development (MERN / Java / Python)
+
+Blockchain & Web3 Integrations
+
+Cloud-Native & Containerized Deployments
+
+📫 Reach Me At
+Email: shakilaaask@gmail.com
+
+LinkedIn: linkedin.com/in/shakilashaik
+
+🛠️ Tech Stack
+Languages: JavaScript, TypeScript, Java, Python
+
+Frontend: React, Redux, HTML5, CSS3, Tailwind CSS
+
+Backend: Node.js, Express.js, Spring Boot, Flask
+
+Databases: MongoDB, PostgreSQL, MySQL
+
+Blockchain: Solidity, Ethereum, Web3.js, MetaMask
+
+Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions
+
+Tools: Git, GitHub, Postman, Keycloak, REST APIs
+
+⚡ Fun Fact
+I enjoy exploring open-source projects and solving real-world challenges through code. Check out my repositories to see what I’ve been working on!
