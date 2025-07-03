@@ -9,16 +9,14 @@ I'm actively expanding my expertise in:
 
 AWS Cloud Services
 
-Docker & Kubernetes
-
-CI/CD Pipelines & DevOps Workflows
+Docker 
 
 🤝 Looking to Collaborate On
 Projects involving:
 
-Full-Stack Web Development (MERN / Java / Python)
+Full-Stack Web Development (MERN / Python)
 
-Blockchain & Web3 Integrations
+Blockchain  Integrations
 
 Cloud-Native & Containerized Deployments
 
@@ -32,13 +30,13 @@ Languages: JavaScript, TypeScript, Java, Python
 
 Frontend: React, Redux, HTML5, CSS3, Tailwind CSS
 
-Backend: Node.js, Express.js, Spring Boot, Flask
+Backend: Node.js, Express.js, Flask
 
 Databases: MongoDB, PostgreSQL, MySQL
 
-Blockchain: Solidity, Ethereum, Web3.js, MetaMask
+Blockchain: Solidity, Ethereum, MetaMask
 
-Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions
+Cloud & DevOps: AWS, Docker, GitHub Actions
 
 Tools: Git, GitHub, Postman, Keycloak, REST APIs
 
