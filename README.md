@@ -1,6 +1,6 @@
 👋 Hi, I'm Shakila Shaik
-🚀 About Me
-I'm a full-stack developer with hands-on experience in building modern, secure, and scalable applications. I’ve worked on real-world projects involving React, Node.js, and Python, and have also built Ethereum smart contracts and integrated blockchain features using Web3.js and MetaMask.
+
+I'm a full-stack developer with hands-on experience in building modern, secure, and scalable applications. I’ve worked on real-world projects involving React, Node.js, and Python.
 
 
 
@@ -34,7 +34,7 @@ Backend: Node.js, Express.js, Flask
 
 Databases: MongoDB, PostgreSQL, MySQL
 
-Blockchain: Solidity, Ethereum, MetaMask
+Blockchain: Ethereum, MetaMask
 
 Cloud & DevOps: AWS, Docker, GitHub Actions
 
