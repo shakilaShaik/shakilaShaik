@@ -1,23 +1,14 @@
 👋 Hi, I'm Shakila Shaik
 
 I'm a full-stack developer with hands-on experience in building modern, secure, and scalable applications. I’ve worked on real-world projects involving React, Node.js, and Python.
-
-
-
 🌱 Currently Learning
 I'm actively expanding my expertise in:
-
 AWS Cloud Services
-
 Docker 
-
 🤝 Looking to Collaborate On
 Projects involving:
 
 Full-Stack Web Development (MERN / Python)
-
-Blockchain  Integrations
-
 Cloud-Native & Containerized Deployments
 
 📫 Reach Me At
@@ -33,8 +24,6 @@ Frontend: React, Redux, HTML5, CSS3, Tailwind CSS
 Backend: Node.js, Express.js, Flask
 
 Databases: MongoDB, PostgreSQL, MySQL
-
-Blockchain: Ethereum, MetaMask
 
 Cloud & DevOps: AWS, Docker, GitHub Actions
 
